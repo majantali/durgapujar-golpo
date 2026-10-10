@@ -1,6 +1,6 @@
+/*-- scss:defaults --*/
 
-
-$link-color: #006644;
+$link-color: #FF0044;
 $popover-bg: #DDDFDF;
 
 
@@ -11,3 +11,7 @@ p
     text-align: justify !important;
 }
 
+body
+{
+    font-family: "Noto Serif Bengali", serif;
+}

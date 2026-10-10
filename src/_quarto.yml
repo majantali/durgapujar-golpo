@@ -18,12 +18,12 @@ book:
 
 format:
   html:
-    extensions: -smart
-    fontsize: 1.6em
+    fontsize: 1.2em
+    header-includes: |
+      <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Noto Serif Bengali">
     mainfont: "Noto Serif Bengali"
-    monofont: "Noto Serif Bengali"
     theme:
       light: [flatly, custom.scss]
       dark: [darkly,  custom.scss]
   epub: default
-
