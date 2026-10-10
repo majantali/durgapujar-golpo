@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "দুর্গাপূজার গল্প"
+  author: "অজিত দত্ত"
+  date: "10/10/2026"
+  downloads: [epub]
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - preface.qmd
+    - chap00.qmd
+    - chap01.qmd
+    - chap02.qmd
+    - chap03.qmd
+    - chap04.qmd
+
+format:
+  html:
+    extensions: -smart
+    fontsize: 1.6em
+    mainfont: "Noto Serif Bengali"
+    monofont: "Noto Serif Bengali"
+    theme:
+      light: [flatly, custom.scss]
+      dark: [darkly,  custom.scss]
+  epub: default
+

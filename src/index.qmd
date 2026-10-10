@@ -1,0 +1,18 @@
+
+# Home {.unnumbered}
+
+<a href='https://www.amazon.in/dp/937310280X'>
+	<img src='cover-front.svg' 
+	     style='width: 95%; margin: auto;' 
+	     alt='Buy on Amazon' />
+</a>
+
+প্রথম প্রকাশ মহালয়া ১৯৬৯\
+
+প্রচ্ছদ ও অলঙ্করণ মধুরা দত্ত\
+
+
+
+
+
+
