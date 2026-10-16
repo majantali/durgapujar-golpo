@@ -1,21 +1,18 @@
 
 # Home {.unnumbered}
 
+প্রচ্ছদ ও অলঙ্করণ: মধুরা দত্ত\
+
 <a href='https://www.amazon.in/dp/937310280X'>
 	<img src='cover-front.svg' 
 	     style='width: 100%;' 
 	     alt='Buy on Amazon' />
 </a>
 
-প্রথম প্রকাশ মহালয়া ১৯৬৯\
+প্রথম প্রকাশ মহালয়া ১৯৬৯  
 
-[পুনর্মুদ্রণ](https://www.amazon.in/dp/937310280X) ২০২৫\
+[পুনর্মুদ্রণ](https://www.amazon.in/dp/937310280X) ২০২৫  
 
-অনলাইন সংস্করণ মহালয়া ২০২৬\
-
-
-
-
-
+অনলাইন সংস্করণ মহালয়া ২০২৬  
 
 
